@@ -1,0 +1,15 @@
+Welcome to [Company_Name] <Service>
+
+Terms of Use: This service is property of [Company_Name]. Any user
+of this service must comply with all [Company_Name] policies, including
+the Acceptable Use Policy, Cyber Security Policy and Data Privacy Policy
+(https[:]//[sharepoint]/it-policies). While [Company_Name] upholds a
+commitment to respecting the privacy expectations of all employees, please be
+aware that any electronic information transmitted over or stored in
+[Company_Name] systems and networks is subject to audit, inspection, and 
+disclosure to fulfill compliance or legal obligations. It is important to note
+that any personal communications and files transmitted over or stored on
+[Company_Name] systems are also subject to the same regulations as
+business communications.
+
+By using this system, I acknowledge and consent to these terms.
